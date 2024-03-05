@@ -1,0 +1,18 @@
+body{
+    background-color: antiquewhite;
+}
+header{
+    background-color: orange;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+section{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.content{
+    width:80%;
+}

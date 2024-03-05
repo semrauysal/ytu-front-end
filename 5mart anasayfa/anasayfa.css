@@ -1,0 +1,45 @@
+ 
+body{
+    background-color: antiquewhite;
+}
+
+
+
+
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;  
+    background-color:orange;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: whitesmoke;
+   
+}
+
+article{
+
+    width: 100%;
+    
+}
+.box{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.content{
+    width: 80%;
+}
+a{
+    
+    color:darkmagenta;
+}
+
+
+
+
+
+
+
+
