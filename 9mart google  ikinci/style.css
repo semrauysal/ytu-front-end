@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+.article{
+    height: 80vh;
+     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.container{
+    width: 50%;
+}
+
+.row-2{
+    background-color:gainsboro;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    margin-bottom: 3px;
+    
+}
+.row-3{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.r-col{
+    padding-inline: 63px;
+}
+
+
