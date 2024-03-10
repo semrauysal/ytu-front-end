@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+
+a{
+    color:azure;
+    text-decoration: none;
+}
+
+.navbar{
+    color:azure;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    margin-left: 2rem;
+   
+}
+.navbar ul{
+    margin-left: 600px;
+}
+
+.navbar ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+.navbar ul li a{
+    padding-inline: 0.5rem;
+}
+
+.navbar ul li a:hover{
+    background-color: bisque;
+    color:black;
+    border-radius: 6px;
+}
+
+.navbar ul li a:active{
+   background-color: bisque;
+   color:red
+}
+
+#home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 1.5rem;
+}
+
+#home img{
+    margin-block: 1rem;
+    border-radius: 80px;
+}
+
+#home h2{
+    margin-bottom: 0.5rem;
+}
+
+#home p{
+    color:ghostwhite;
+    margin-bottom: 0.5rem;
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+}
+
+.social-media-account{
+    margin-bottom: 0.5rem;
+}
+
+.social-media-account a{
+    font-size: 2rem;
+}
+
+.fa-instagram:hover{
+    color: red;
+}
+.fa-linkedin:hover{
+    color: blue;
+}
+#info{
+padding-block:2rem;
+color: azure;
+display: flex;
+flex-direction: column;
+
+}
+.info-items{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.info-items i{
+    color:burlywood
+    
+    
+    
+}
+
+.film{
+    width: 40%;
+}
+.spor{
+    width: 40%;
+}
+#projects{
+    padding-block:2rem;
+    color: azure;
+    display: flex;
+    justify-content: center;
+    
+}
