@@ -1,0 +1,25 @@
+.bg-light1{
+    background-color:rgb(249, 247, 246);
+}
+
+.bg-light2{
+     background-color:rgb(231, 245, 245);
+}
+
+.bg-light3{
+      background-color:rgb(250, 249, 247);
+}
+
+
+
+.head-small{
+    font-size: 1.25rem;
+}
+
+.head-medium{
+    font-size: 1.5rem;
+}
+
+.head-large{
+    font-size:1.75rem;
+}
