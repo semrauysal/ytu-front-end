@@ -1,0 +1,19 @@
+
+
+.bg-dark1{
+    background-color: #272727;
+}
+
+.bg-dark2{
+    background-color: black;
+}
+
+.bg-dark3{
+    background-color:#060505;
+}
+
+.container{
+   margin:0 auto;
+    max-width: 1300px;
+    
+}

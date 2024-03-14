@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2{
+    text-align: center;
+    color: rgb(94, 74, 49);
+    font-style: italic;
+    padding:1rem
+}
+
+
+.items-row{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom:10px;
+}
+
+.item{
+    margin-inline: 5px;
+ 
+}
+
+img{
+    border-radius: 15px;
+       filter:opacity(0.5);
+}
+img:hover{
+    filter:none;
+      transition: 0.3s;
+    transform: scale(1.3);
+    position: relative;
+    z-index: 4;
+}
