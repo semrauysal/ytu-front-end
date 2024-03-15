@@ -1,0 +1,54 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: 0;
+}
+
+.container{
+    width:90%;
+    margin: auto;
+}
+
+
+/* header */
+header{
+    padding-block: 10px;
+}
+
+header ul{
+    display: flex;
+    list-style: none;
+}
+
+header ul li a{
+    color: azure;
+    padding-right: 2rem;
+    text-decoration: none;
+}
+
+/* main */
+
+main{
+    margin-top: 2rem;
+}
+
+.row{
+    display: flex;
+    
+}
+
+.submit{
+    background-color: blue;
+    padding: 0.5rem;
+    border-radius: 20px;
+    color: bisque;
+    
+}
+.reset{
+    background-color: red;
+    padding: 0.5rem;
+     border-radius: 20px;
+     color: bisque;
+}
+
+
